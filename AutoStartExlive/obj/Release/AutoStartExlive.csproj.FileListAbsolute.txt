@@ -1,0 +1,8 @@
+D:\Other\计算\Lianxi\1.C#.Learn\0.C#.Model\AutoStartExlive\AutoStartExlive\AutoStartExlive\bin\Release\AutoStartExlive.exe.config
+D:\Other\计算\Lianxi\1.C#.Learn\0.C#.Model\AutoStartExlive\AutoStartExlive\AutoStartExlive\bin\Release\AutoStartExlive.exe
+D:\Other\计算\Lianxi\1.C#.Learn\0.C#.Model\AutoStartExlive\AutoStartExlive\AutoStartExlive\bin\Release\AutoStartExlive.pdb
+D:\Other\计算\Lianxi\1.C#.Learn\0.C#.Model\AutoStartExlive\AutoStartExlive\AutoStartExlive\obj\Release\AutoStartExlive.exe
+D:\Other\计算\Lianxi\1.C#.Learn\0.C#.Model\AutoStartExlive\AutoStartExlive\AutoStartExlive\obj\Release\AutoStartExlive.pdb
+D:\work\other\计算\Lianxi\1.C#.Learn\0.C#.Model\AutoStartExlive\AutoStartExlive\AutoStartExlive\bin\Release\AutoStartExlive.exe.config
+D:\work\other\计算\Lianxi\1.C#.Learn\0.C#.Model\AutoStartExlive\AutoStartExlive\AutoStartExlive\obj\Release\AutoStartExlive.exe
+D:\work\other\计算\Lianxi\1.C#.Learn\0.C#.Model\AutoStartExlive\AutoStartExlive\AutoStartExlive\obj\Release\AutoStartExlive.pdb
